@@ -8,7 +8,7 @@
 
 <p>
 	<a href="https://code.visualstudio.com/"><img width="50px" alt = "VSCode" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png"/></a>
-	<a href="https://visualstudio.microsoft.com/"<img width="50px" alt = "microsoft visual studio" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"/></a>
+	<a href="https://visualstudio.microsoft.com/"><img width="50px" alt = "VS" src="https://www.silicon.fr/wp-content/uploads/2013/11/Visual-Studio.jpg"/></a>
 </p>
 
 ### join this discord:
