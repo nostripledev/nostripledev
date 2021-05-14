@@ -4,7 +4,7 @@
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=nostripledev&show_icons=true&theme=radical&count_private=true)](https://discord.gg/GM4xmktmmv)
 
-## I use it's IDE.
+## the IDEs I use.
 
 <p>
 	<a href="https://code.visualstudio.com/"><img width="50px" alt = "VSCode" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png"/></a><br>
