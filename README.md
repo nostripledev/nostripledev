@@ -8,6 +8,7 @@
 
 <p>
 	<a href="https://code.visualstudio.com/"><img width="50px" alt = "VSCode" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png"/></a><br>
+		<a href="https://code.visualstudio.com/insiders/"><img width="50px" alt = "VSCodeI" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code512.png"/></a><br>
 	<a href="https://visualstudio.microsoft.com/"><img width="50px" alt = "VS" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"/></a>
 </p>
 
